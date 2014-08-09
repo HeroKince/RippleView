@@ -10,14 +10,7 @@ RippleView
 >  效果图
 
 <br/>
-<br/>
-<img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/1.png"/>
-<img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/2.png"/>
-<img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/3.png"/>
-<img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/4.png"/><img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/5.png"/>
-<img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/6.png"/><img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/7.jpg"/>
-<img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/8.jpg"/>
-<img src="https://raw.githubusercontent.com/TaurusXi/ALLforYOU_android_design/master/AllForYou/art/9.png"/>
+<img src="https://github.com/wangjinyu501/RippleView/blob/master/ripple.gif"/>
 <br/>
 
 
