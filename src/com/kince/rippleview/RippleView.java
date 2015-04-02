@@ -17,7 +17,7 @@ import android.view.View;
 
 /**
  * @author kince
- * @category ²¨ÎÆ
+ * @category Â²Â¨ÃŽÃ†
  * @since 2014.8.9
  * @version v1.0.0
  * 
@@ -47,7 +47,7 @@ public class RippleView extends View {
 	private int rippleThirdRadius = -66;
 
 	private Paint textPaint = new Paint();
-    private String mText="µã»÷ÎÒ°É";
+    private String mText="ÂµÃ£Â»Ã·ÃŽÃ’Â°Ã‰";
     
 	private Handler handler = new Handler() {
 		@Override
@@ -214,5 +214,10 @@ public class RippleView extends View {
 		isStartRipple = true;
 		handler.sendEmptyMessage(0);
 	}
+	
+        public void stopRipple(){
+                isStartRipple = false;
+                handler.removeMessages(0);
+        }
 
 }
